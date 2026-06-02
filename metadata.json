@@ -1,0 +1,6 @@
+{
+  "name": "Private School Management System",
+  "description": "A comprehensive private school management system in Khmer/English featuring student enrollment, installments fee plans, receipt generation, direct teacher collection tracking, real-time analytics, report cards, and parent-student portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
